@@ -1,0 +1,75 @@
+.projects {
+    text-align: center;
+    padding: 50px 10%;
+    background-color: #121212;
+    color: white;
+}
+
+.heading {
+    font-size: 4rem;
+    margin-bottom: 20px;
+    color: #ffcc00;
+}
+
+
+
+.project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-card {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+    background: #282828;
+}
+
+.project-media {
+    flex: 1;
+}
+
+.project-media img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.project-content {
+    flex: 2;
+    padding: 20px;
+    text-align: left;
+}
+
+.project-content h2 {
+    color: #ffcc00;
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+}
+
+.project-content p {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: bisque;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .project-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .project-content {
+        padding-top: 15px;
+    }
+}

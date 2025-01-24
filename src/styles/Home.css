@@ -1,0 +1,70 @@
+/* src/styles/Home.css */
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    padding: 4rem 10%;
+    background: #121212;
+    color: white;
+}
+
+.home-content {
+    margin-top: 12rem;
+    max-width: 800px;
+    font-size: 1.7rem;
+    max-height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.highlight {
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #ffcc00;
+}
+
+.text-animate h2 {
+    font-size: 4rem;
+    color: #00ffcc;
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Wrap paragraph and button box together */
+.home-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 27px;
+    text-align: center;
+}
+
+.btn-box {
+    display: flex;
+    gap: 10px;
+    margin-top: 2rem;
+    justify-content: center;
+}
+
+.btn-box .btn {
+    text-decoration: none;
+    padding: 15px 20px;
+    border: 2px solid #ffcc00;
+    transition: 0.3s;
+   text-align: center;
+    background: #ffcc00;
+    color: black;
+}
+
+.btn-box .btn:hover {
+    color: #ffcc00;
+    background: black;
+}
+
