@@ -12,7 +12,7 @@ const About = () => {
       <div className="about-container">
         {/* Left Side - Image */}
         <div className="about-img">
-          <img src="../assets/profile.jpg" alt="Profile" />
+          <img src="../assets/abut.jpg" alt="Profile" />
           <span className="circle-spin"></span>
         </div>
 

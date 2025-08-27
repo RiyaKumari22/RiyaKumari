@@ -3,6 +3,15 @@ import '../styles/WorkExperience.css';
 
 const experiences = [
   {
+    role: "Project Assistant- Online Management",
+    company: "FSR Global",
+    duration: "May 2025 - Present",
+    description: [
+      "Manage FSR Global’s website (WordPress) and ETA LMS (Moodle), including SEO optimization Google Analytics and technical issue resolution.",
+     , "Support front-end design for multiple websites and assist with bug fixing and digital platform maintenance."
+    ]
+  },
+  {
     role: "Software Developer Intern",
     company: "Webnet Technologies",
     duration: "June 2024 - July,2024",

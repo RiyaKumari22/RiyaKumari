@@ -57,7 +57,7 @@
     background-color: transparent;
 }
 .nav button:hover {
-    color:  var(--text-color);
+    color:  #ffcc00;
 }
 .header.sticky {
     background: rgba(51, 51, 51, 0.9);
