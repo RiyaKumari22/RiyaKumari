@@ -17,7 +17,8 @@ const projects = [
   {
     title: "YatraTales",
     description: "Built a comprehensive tour and travel website using the MERN stack, integrating a weather forecasting system for real-time updates. Demonstrated expertise in API integration and designed a user-friendly interface with React.js. Optimized backend performance with Node.js and Express.js, ensuring efficient data management and scalable storage with MongoDB.",
-    image: "/assets/yatratales.png"
+    image: "/assets/yatratales.png",
+    link:"https://yatratale.vercel.app/"
   },
   {
     title: "NewsFeed",
@@ -36,6 +37,12 @@ const projects = [
     description: "Designed and developed a dynamic movie website using React.js, seamlessly integrating the IMDB API to provide real-time movie details Optimized the user interface for an engaging browsing experience, ensuring smooth navigation and responsive design. Implemented efficient state management for seamless data fetching and rendering, enhancing overall performance and usability.",
     image: "/assets/MovieApp.png",
     link: "https://movie-app-zeta-pied.vercel.app/"
+  },
+   {
+    title: "TextUtils",
+    description: "Designed and developed a text manipulation website using React.js, which enables many features like word counter, character counter, copy text, remove extra spaces,Cases Converter etc. It also includes theme toggler which enables dark mode and light mode according to user preference.",
+    image: "/assets/textutils.png",
+    link: "https://text-util-two.vercel.app/"
   }
 ];
 

@@ -18,13 +18,12 @@ const About = () => {
 
         {/* Right Side - Description */}
         <div className="about-text">
-          <p>
-          As an ambitious final-year Computer Science student, I am passionate about full-stack development and have honed my skills in building dynamic, user-friendly web applications. Proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, I thrive on creating seamless digital experiences that meet both user and business needs. My hands-on projects have strengthened my problem-solving abilities and reinforced my commitment to delivering high-quality solutions.
+         <p > Riya Kumari is a Web Developer and Project Assistant – Online Management at FSR Global, where she manages websites, supports SEO and Google Analytics, and maintains digital learning platform such as Moodle and Canvas. She specializes in front-end design, troubleshooting technical issues, and ensuring smooth digital program delivery.
+<br></br>
+<br></br>
+With a strong foundation in Computer Science Engineering, Riya’s technical expertise spans HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and WordPress. She also works with cloud platforms like Microsoft Azure and Oracle, and is skilled in Git, Postman, and digital platform optimization.
 
-          </p>
-          <p>
-
-With a deep interest in data structures and algorithms, I constantly seek to enhance my coding and analytical skills, staying adaptable in a rapidly evolving tech landscape. I am a proactive learner, dedicated to tackling new challenges and mastering the latest technologies. With a strong foundation in both technical and problem-solving aspects, I am excited to contribute my innovative mindset and expertise to a forward-thinking team or project.
+Passionate about creating responsive, user-friendly digital experiences, Riya combines creativity and technical precision to deliver impactful solutions.
           </p>
         </div>
       </div>

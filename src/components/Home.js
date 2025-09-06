@@ -15,10 +15,12 @@ const Home = () => {
         <div className="home-content">
           <h1>Hi, I am <span className="highlight">Riya Kumari</span></h1>
           <div className="text-animate">
-            <h2>Full Stack Developer</h2>
+            <h2> Software Engineer</h2>
           </div>
           <p>
-           An ambitious final-year Computer Science student with a passion for software development. Skilled in web technologies, I specialize in building dynamic, user-friendly websites. Additionally, I have strong expertise in Data Structures and Algorithms, Python, and AI technologies, which enhances my problem-solving abilities and drives innovation. Through hands-on projects, I have sharpened my skills to deliver high-quality, efficient solutions.
+          Motivated and detail-oriented tech professional with hands-on experience in web development, digital project support, and online platform management. At FSR Global, I contribute to managing and enhancing the organization’s digital presence, working on website development, content updates, analytics, and learning platforms.
+
+
           </p>
           <div className="btn-box">
           <a href="/assets/RiyaResume .pdf" className="btn" download>Download Resume</a>

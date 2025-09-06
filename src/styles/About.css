@@ -63,6 +63,7 @@
   
   .about-text p {
     margin-bottom: 1rem;
+    text-align: justify;
   }
   
   /* Responsive Design */

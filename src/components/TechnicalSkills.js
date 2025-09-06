@@ -7,7 +7,8 @@ const TechnicalSkills = () => {
     { category: "Web Technologies", skills: "HTML, CSS, SASS, React.js, Node.js, Express.js" },
     { category: "Databases", skills: "MongoDB, Oracle, SQL Server" },
     { category: "Cloud Platforms", skills: "Microsoft Azure" },
-    { category: "Tools", skills: "Git, VS Code, Postman, Excel, PowerPoint" }
+    { category: "Tools", skills: "Git, VS Code, Postman, Excel, PowerPoint,Canva, Google Analytics" },
+    { category: "Learning Management Systems (LMS)", skills: "Moodle" },
   ];
 
   return (
