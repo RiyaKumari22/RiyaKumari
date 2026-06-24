@@ -3,7 +3,7 @@ import '../styles/WorkExperience.css';
 
 const experiences = [
   {
-    role: "Project Assistant- Online Management",
+    role: "Program Assistant",
     company: "FSR Global",
     duration: "May 2025 - Present",
     description: [
