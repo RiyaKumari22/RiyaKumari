@@ -18,13 +18,14 @@ const About = () => {
 
         {/* Right Side - Description */}
         <div className="about-text">
-         <p > Riya Kumari is a Web Developer and Program Assistant at FSR Global, where she manages websites, supports SEO and Google Analytics, and maintains digital learning platform such as Moodle and Canvas. She specializes in front-end design, troubleshooting technical issues, and ensuring smooth digital program delivery.
-<br></br>
-<br></br>
-With a strong foundation in Computer Science Engineering, Riya’s technical expertise spans HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, and WordPress. She also works with cloud platforms like Microsoft Azure and Oracle, and is skilled in Git, Postman, and digital platform optimization.
-
-Passionate about creating responsive, user-friendly digital experiences, Riya combines creativity and technical precision to deliver impactful solutions.
-          </p>
+        <p>Personal Statement  
+Software Developer turning ideas into scalable digital solutions.  
+Builds and ships production applications end-to-end using React.js,  
+TypeScript, Node.js, and the MERN stack, owning 4+ organizational 
+web properties from concept to deployment. Also administers  
+Learning Management Systems and manages end-to-end technical  
+delivery for 200+ users globally, coordinating closely with internal  
+teams and international partners. </p>
         </div>
       </div>
     </section>
